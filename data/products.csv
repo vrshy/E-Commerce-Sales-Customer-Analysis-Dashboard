@@ -1,0 +1,49 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+P001,Headphones A,Electronics,Headphones,1064.0,1856.0
+P002,Headphones B,Electronics,Headphones,879.0,1419.0
+P003,Headphones C,Electronics,Headphones,1236.0,1924.0
+P004,Smartwatch A,Electronics,Smartwatch,3681.0,5826.0
+P005,Smartwatch B,Electronics,Smartwatch,1866.0,2509.0
+P006,Smartwatch C,Electronics,Smartwatch,3711.0,5065.0
+P007,Power Bank A,Electronics,Power Bank,725.0,1013.0
+P008,Power Bank B,Electronics,Power Bank,522.0,922.0
+P009,Power Bank C,Electronics,Power Bank,653.0,1081.0
+P010,Bluetooth Speaker A,Electronics,Bluetooth Speaker,1319.0,2188.0
+P011,Bluetooth Speaker B,Electronics,Bluetooth Speaker,1376.0,1818.0
+P012,Bluetooth Speaker C,Electronics,Bluetooth Speaker,1373.0,1977.0
+P013,T-Shirt A,Fashion,T-Shirt,272.0,405.0
+P014,T-Shirt B,Fashion,T-Shirt,220.0,305.0
+P015,T-Shirt C,Fashion,T-Shirt,99.0,172.0
+P016,Jeans A,Fashion,Jeans,1010.0,1519.0
+P017,Jeans B,Fashion,Jeans,506.0,662.0
+P018,Jeans C,Fashion,Jeans,591.0,1074.0
+P019,Sneakers A,Fashion,Sneakers,1749.0,2912.0
+P020,Sneakers B,Fashion,Sneakers,1368.0,2346.0
+P021,Sneakers C,Fashion,Sneakers,1336.0,2265.0
+P022,Handbag A,Fashion,Handbag,1471.0,2379.0
+P023,Handbag B,Fashion,Handbag,1150.0,1878.0
+P024,Handbag C,Fashion,Handbag,1062.0,1369.0
+P025,Mixer Grinder A,Home & Kitchen,Mixer Grinder,1188.0,1831.0
+P026,Mixer Grinder B,Home & Kitchen,Mixer Grinder,1530.0,2111.0
+P027,Mixer Grinder C,Home & Kitchen,Mixer Grinder,1405.0,1968.0
+P028,Cookware Set A,Home & Kitchen,Cookware Set,1325.0,2407.0
+P029,Cookware Set B,Home & Kitchen,Cookware Set,1140.0,1954.0
+P030,Cookware Set C,Home & Kitchen,Cookware Set,1045.0,1452.0
+P031,Bedsheet A,Home & Kitchen,Bedsheet,223.0,308.0
+P032,Bedsheet B,Home & Kitchen,Bedsheet,825.0,1035.0
+P033,Bedsheet C,Home & Kitchen,Bedsheet,396.0,680.0
+P034,Wall Clock A,Home & Kitchen,Wall Clock,156.0,242.0
+P035,Wall Clock B,Home & Kitchen,Wall Clock,367.0,638.0
+P036,Wall Clock C,Home & Kitchen,Wall Clock,299.0,388.0
+P037,Notebook A,Books & Stationery,Notebook,41.0,55.0
+P038,Notebook B,Books & Stationery,Notebook,72.0,123.0
+P039,Notebook C,Books & Stationery,Notebook,87.0,149.0
+P040,Pen Set A,Books & Stationery,Pen Set,89.0,161.0
+P041,Pen Set B,Books & Stationery,Pen Set,121.0,184.0
+P042,Pen Set C,Books & Stationery,Pen Set,139.0,197.0
+P043,Novel A,Books & Stationery,Novel,133.0,203.0
+P044,Novel B,Books & Stationery,Novel,298.0,390.0
+P045,Novel C,Books & Stationery,Novel,104.0,180.0
+P046,Planner A,Books & Stationery,Planner,231.0,331.0
+P047,Planner B,Books & Stationery,Planner,180.0,228.0
+P048,Planner C,Books & Stationery,Planner,122.0,208.0
